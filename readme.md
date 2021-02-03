@@ -14,4 +14,4 @@ code
 code
 ```
 
-after *add drop, every 3 lessons*
+after **add drop, every 3 lessons**
