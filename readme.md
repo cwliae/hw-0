@@ -1,11 +1,11 @@
 # Eric 
 
-** hoho
+## hoho
 
 
 *I am UST* ~~not hku~~
 
-- [] task 1
+- [ ] task 1
 - [x] task 2
 
 ```
